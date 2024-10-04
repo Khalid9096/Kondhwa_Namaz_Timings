@@ -2,4 +2,4 @@
 
 Author-Khalid Ansari
 <br>
-Student at AISC Pune.
+Student at AISC Camp Pune.
